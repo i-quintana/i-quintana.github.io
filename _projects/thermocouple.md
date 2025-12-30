@@ -2,7 +2,7 @@
 title: "Thermocouple Instrumentation and Temperature Measurement"
 excerpt: "Design and calibration of a thermocouple-based temperature measurement system with emphasis on signal conditioning and uncertainty analysis."
 collection: projects
-date: 2025-03
+date: 2025-03-01
 ---
 
 This project involved the design and experimental validation of a thermocouple-based temperature measurement system, with focus on accurate sensing, signal conditioning, and calibration.
