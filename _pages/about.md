@@ -11,5 +11,4 @@ Hello! My name is Ignacio and I am a mechanical engineer with a focus on mechatr
 
 I have experience spanning experimental work, system-level modeling, and data-driven analysis through academic projects and industry internships. I am particularly interested in research at the intersection of control theory, learning-based methods, and real-world validation.
 
-You can find my CV [here](/files/CV_Ignacio_Quintana.pdf).
-
+You can find my CV [here](/files/CV%20-%20Quintana.pdf.pdf).
