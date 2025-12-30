@@ -226,6 +226,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
+    show_date: false
     permalink: /:collection/:path/
   projects:
     output: true
