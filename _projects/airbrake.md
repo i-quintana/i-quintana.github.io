@@ -2,7 +2,7 @@
 title: "Pionero I Airbrake Design"
 excerpt: "Design, modeling, and testing of an actively controlled airbrake system for apogee regulation in a sounding rocket."
 collection: projects
-date: 2025-07-01
+date: 2025-07
 ---
 
 This project focused on the design and validation of an actively actuated airbrake system to regulate the apogee of a sounding rocket by modulating aerodynamic drag during ascent.
